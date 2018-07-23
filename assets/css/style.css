@@ -104,6 +104,11 @@ body{
 form .invalid-feedback{
 	font-family: 'Open Sans', sans-serif;
 }
+.cot_re p{
+	text-align: center;
+	color: #27c2de!important;
+	text-decoration: none;
+}
 
 @media (max-width: 340px){
 	.main #text-main h1{
